@@ -1,13 +1,13 @@
 # Voidpack
-A repo for the Voidpack resource pack for Minecraft 1.12 -- 1.13 soon™
+Yes, this is indeed a backport of Jappa's (and my and others') textures to Minecraft Beta 1.7.3. Super hostile is still fun, OK? 
 
-## [Download found here](https://github.com/oitsjustjose/Voidpack/archive/1.12.x.zip)
+# [Download found here](https://github.com/oitsjustjose/Voidpack/archive/b1.7.3.zip)
 
 This will download the latest version of this repo for you and can be used directly in Minecraft
 
 ## Installation:
 
-Open Minecraft, select "Options" → "Resource Packs" → "Open Resource Packs Folder" and paste the downloaded .zip file in
+In the Minecraft *main menu*, select "Mods and Texture Packs" → "" → "Open Texture Packs Folder" and paste the downloaded .zip file in
 
 ## Credits:
 

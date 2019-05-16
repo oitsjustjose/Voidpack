@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "notenoughwands:items/advanced_wand_core"
-  }
-}
